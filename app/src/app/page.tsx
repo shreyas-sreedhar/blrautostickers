@@ -10,7 +10,7 @@ export default function Home() {
           <Link href="/" className="hover:underline">home</Link>
           <Link href="/about" className="hover:underline">about</Link>
           <Link href="/apply" className="bg-black text-white px-4 py-2 rounded-full">+ Add image</Link>
-          <Link href="/donate" className="hover:underline">github</Link>
+          <Link href="www.github.com/shreyas-sreedhar/blrautostickers" className="hover:underline">github</Link>
           <Link href="/twitter" className="hover:underline">twitter</Link>
         </nav>
 
