@@ -32,13 +32,13 @@ export default function Home() {
         <div className="p-16 mb-8">
           <h1 className="text-3xl font-light mb-2">Subltting of bengaluru</h1>
           <p className="text-5xl italic font-light mb-2"> get free gyaan </p>
-          <h2 className="text-6xl font-bold"> Bengaluru Auto ಕವಿತೆ </h2>
+          <h2 className="text-6xl font-bold"> Bengaluru Auto ಕವಿತೆ add some stuff here </h2>
         </div>
       </div>
       <div className="p-8"> 
       <Grid />
       </div>
-      
+
     </>
   );
 }
