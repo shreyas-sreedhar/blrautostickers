@@ -38,6 +38,7 @@ export default function Home() {
       <div className="p-8"> 
       <Grid />
       </div>
+      
     </>
   );
 }
